@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5045
     wikipedia: http://en.wikipedia.org/wiki/W._J._Loftie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40423#Lessons-in-the-Art-of-IlluminatingMuseum.
 gutenberg_issued: '2012-08-06'
 gutenberg_type: Text
 identifiers:
